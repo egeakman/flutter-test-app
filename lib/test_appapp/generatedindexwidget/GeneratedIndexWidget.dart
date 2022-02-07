@@ -18,13 +18,13 @@ class GeneratedIndexWidget extends StatelessWidget {
         return SingleChildScrollView(
           scrollDirection: Axis.vertical,
           child: Container(
-              height: 926.0,
+              height: 865.0,
               child: Stack(children: [
                 Container(
                     width: constraints.maxWidth,
                     child: Container(
                       width: 428.0,
-                      height: 926.0,
+                      height: 870.0,
                       child: Stack(
                           fit: StackFit.expand,
                           alignment: Alignment.center,
