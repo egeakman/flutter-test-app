@@ -12,15 +12,6 @@ class GeneratedMain_buttonWidget extends StatelessWidget {
     return Container(
       width: 70.0,
       height: 70.0,
-      decoration: BoxDecoration(
-        boxShadow: [
-          BoxShadow(
-            color: Color.fromARGB(63, 0, 0, 0),
-            offset: Offset(0.0, 2.0),
-            blurRadius: 4.0,
-          )
-        ],
-      ),
       child: Stack(
           fit: StackFit.expand,
           alignment: Alignment.center,
