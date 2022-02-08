@@ -49,7 +49,7 @@ class GeneratedItem0Widget9 extends StatelessWidget {
               height: 20.875816345214844,
               child: LayoutBuilder(
                   builder: (BuildContext context, BoxConstraints constraints) {
-                final double width = constraints.maxWidth * 0.269144250091011;
+                final double width = constraints.maxWidth * 0.369144250091011;
 
                 return Stack(children: [
                   TransformHelper.translate(
